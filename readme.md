@@ -387,6 +387,7 @@
 - [filehound](https://github.com/nspragg/filehound) - Flexible and fluent interface for searching the file system.
 - [move-file](https://github.com/sindresorhus/move-file) - Move a file, even works across devices.
 - [tempy](https://github.com/sindresorhus/tempy) - Get a random temporary file or directory path.
+- [line-seeker](https://github.com/Moaaz-i/line-seeker) - High-performance line reader and seek tool for huge log files with sparse indexing.
 
 ### Control flow
 
